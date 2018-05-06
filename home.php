@@ -23,6 +23,7 @@
 					</button>
 					<a class="navbar-brand" href="#">N C T U &nbsp;&nbsp; S p o r t s</a>
 				</div>
+				//asfsdgfhsgjfgjfgdfgdhsfshdfs
 				<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
 					<ul class="nav navbar-nav navbar-link">
 						<li class="active"><a href="home.php">Home <span class="sr-only">(current)</span></a></li>

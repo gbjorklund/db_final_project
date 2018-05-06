@@ -32,6 +32,8 @@
 
 
 	}
+
+	//Appearently needed for __construct to run 
 	$sda = new Database();
 
 ?>
